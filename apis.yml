@@ -1,3 +1,4 @@
+aid: oracle-planning
 name: Oracle Planning APIs
 description: >-
   A collection of APIs for Oracle Planning and Budgeting Cloud Service (PBCS)
@@ -5,11 +6,15 @@ description: >-
   provides REST APIs across planning, budgeting, forecasting, financial
   consolidation, account reconciliation, tax reporting, narrative reporting,
   profitability and cost management, and enterprise data management services.
-image: https://www.oracle.com/a/ocom/img/oracle-logo.png
-url: https://raw.githubusercontent.com/api-evangelist/oracle-planning/refs/heads/main/apis.yml
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/oracle-planning/refs/heads/main/apis.yml
 created: '2024-01-01'
-modified: '2026-03-04'
-specificationVersion: '0.18'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis:
 - name: Oracle Planning REST API
   description: >-
@@ -428,9 +433,8 @@ apis:
     email: support@oracle.com
     url: https://support.oracle.com
 maintainers:
-- FN: Kin Lane
-  email: kin@apievangelist.com
-  url: https://apievangelist.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
 tags:
 - EPM
 - Planning
