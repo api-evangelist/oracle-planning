@@ -40,7 +40,7 @@ apis:
         url: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/rest/Authentication.html
       - type: Reference
         url: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/prest/planning_rest_apis.html
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/planning-tutorial-get-started/index.html
       - type: Tutorials
         url: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/tutorials.html
@@ -113,7 +113,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/dpbcs/index.html
-      - type: API Reference
+      - type: APIReference
         url: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/rest/op-aif-rest-v1-datamanagement-jobs-post.html
     contact:
       - FN: Oracle Support
@@ -426,7 +426,7 @@ apis:
         url: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/groov/oracle/epm/api/model/package-summary.html
       - type: Reference
         url: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/ecalc/groovy_java_api_reference.html
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/groovy-tutorial-introduction/index.html
     contact:
       - FN: Oracle Support
@@ -456,25 +456,25 @@ common:
     url: https://cloud.oracle.com
   - type: Documentation
     url: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/index.html
-  - type: Getting Started
+  - type: GettingStarted
     url: https://docs.oracle.com/en/cloud/saas/epm-cloud/
   - type: Authentication
     url: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/prest/about_the_rest_api_for_cloud_plan_budget_guide.html
   - type: Reference
     url: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/prest/quick_reference_table_rest_api_resource_view.html
-  - type: Change Log
+  - type: ChangeLog
     url: https://docs.oracle.com/en/cloud/saas/readiness/epm.html
   - type: Training
     url: https://docs.oracle.com/en/cloud/saas/epm-cloud/training.html
   - type: Tutorials
     url: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/tutorials.html
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.oracle.com/legal/terms.html
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.oracle.com/legal/privacy/
   - type: Support
     url: https://support.oracle.com
-  - type: Status
+  - type: StatusPage
     url: https://ocistatus.oraclecloud.com/
   - type: Blog
     url: https://blogs.oracle.com/proactivesupportepm/
@@ -484,7 +484,7 @@ common:
     url: https://www.oracle.com/performance-management/
   - type: Login
     url: https://cloud.oracle.com
-  - type: Sign Up
+  - type: SignUp
     url: https://www.oracle.com/cloud/free/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/oracle
