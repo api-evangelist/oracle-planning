@@ -484,7 +484,7 @@ common:
     url: https://www.oracle.com/performance-management/
   - type: Login
     url: https://cloud.oracle.com
-  - type: SignUp
+  - type: Signup
     url: https://www.oracle.com/cloud/free/
   - type: GitHubOrganization
     url: https://github.com/oracle
