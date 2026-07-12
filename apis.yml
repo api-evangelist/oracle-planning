@@ -452,6 +452,8 @@ include:
   - name: Oracle Cloud
     url: https://www.oracle.com/cloud/
 common:
+  - type: DomainSecurity
+    url: security/oracle-planning-domain-security.yml
   - type: Portal
     url: https://cloud.oracle.com
   - type: Documentation
