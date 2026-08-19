@@ -26,7 +26,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/oracle-planning/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-03-16'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - name: Oracle Planning REST API
     description: >-
