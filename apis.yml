@@ -164,6 +164,11 @@ apis:
     humanURL: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/prest/about_the_rest_api_for_cloud_plan_budget_guide.html
     baseURL: https://{serviceHost}/interop/rest/security
     tags:
+      - Group
+      - Roles
+      - Security
+      - User
+    tags_raw:
       - Groups
       - Roles
       - Security
@@ -382,6 +387,11 @@ apis:
     humanURL: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/prest/about_the_rest_api_for_cloud_plan_budget_guide.html
     baseURL: https://{serviceHost}/HyperionPlanning/rest/cmapi
     tags:
+      - Close Management
+      - EPM
+      - Task Manager
+      - Workflows
+    tags_raw:
       - Close Management
       - EPM
       - Task Manager
