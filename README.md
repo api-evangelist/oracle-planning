@@ -1,4 +1,4 @@
-# Oracle Planning (oracle-planning)
+# Oracle Planning
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,120 +66,124 @@
 
 A collection of APIs for Oracle Planning and Budgeting Cloud Service (PBCS) and Enterprise Performance Management (EPM) Planning. Oracle EPM Cloud provides REST APIs across planning, budgeting, forecasting, financial consolidation, account reconciliation, tax reporting, narrative reporting, profitability and cost management, and enterprise data management services.
 
-**APIs.json:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/oracle-planning/refs/heads/main/apis.yml)
+**Areas:** Budgeting · Cloud · Consolidation · Enterprise · EPM · Financial Close · Financial Planning · Forecasting · Oracle · Planning
 
-## Scope
+## Oracle Planning on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Oracle Planning is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/oracle-planning/](https://apis.io/providers/oracle-planning/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (17)
 
-- Budgeting
-- Cloud
-- Consolidation
-- Enterprise
-- EPM
-- Financial Close
-- Financial Planning
-- Forecasting
-- Oracle
-- Planning
+- [Oracle Planning REST API](https://apis.io/apis/oracle-planning/oracle-planning-rest-api/) — RESTful API for Oracle Planning and Budgeting Cloud Service providing access to planning applications, data, and metadata. Use the Planning REST APIs to…
+- [Oracle EPM Automate](https://apis.io/apis/oracle-planning/oracle-epm-automate/) — Command-line utility for automating Oracle EPM Cloud administration tasks. EPM Automate enables service administrators to remotely perform tasks including…
+- [Oracle Planning Smart View API](https://apis.io/apis/oracle-planning/oracle-planning-smart-view-api/) — API for integrating Oracle Smart View for Office with Oracle Planning applications. Smart View provides a common Microsoft Office interface for EPM…
+- [Oracle Planning Data Management API](https://apis.io/apis/oracle-planning/oracle-planning-data-management-api/) — REST API for data integration and management in Oracle Planning applications. Provides endpoints for running data rules, integrations, and pipelines, as…
+- [Oracle EPM Migration REST API](https://apis.io/apis/oracle-planning/oracle-epm-migration-rest-api/) — REST API for lifecycle management and migration operations in Oracle EPM Cloud. Provides endpoints for managing application snapshots, importing and…
+- [Oracle EPM Security REST API](https://apis.io/apis/oracle-planning/oracle-epm-security-rest-api/) — REST API for managing users, groups, and roles in Oracle EPM Cloud environments. Provides endpoints for user and group administration, role assignment,…
+- [Oracle Financial Consolidation and Close REST API](https://apis.io/apis/oracle-planning/oracle-financial-consolidation-and-close-rest-api/) — REST API for Oracle Financial Consolidation and Close Cloud Service (FCCS). Provides endpoints for retrieving and managing journals, submitting, approving,…
+- [Oracle Account Reconciliation REST API](https://apis.io/apis/oracle-planning/oracle-account-reconciliation-rest-api/) — REST API for Oracle Account Reconciliation Cloud Service (ARCS). Provides endpoints for creating reconciliations, changing period status, importing…
+- [Oracle Tax Reporting REST API](https://apis.io/apis/oracle-planning/oracle-tax-reporting-rest-api/) — REST API for Oracle Tax Reporting Cloud Service. Provides endpoints for retrieving the REST API version, importing supplementation data, copying data,…
+- [Oracle Narrative Reporting REST API](https://apis.io/apis/oracle-planning/oracle-narrative-reporting-rest-api/) — REST API for Oracle Narrative Reporting Cloud Service. Provides endpoints for managing report artifacts, bursting definitions, files, and jobs. Allows…
+- [Oracle Enterprise Profitability and Cost Management REST API](https://apis.io/apis/oracle-planning/oracle-enterprise-profitability-and-cost-management-rest-api/) — REST API for Oracle Enterprise Profitability and Cost Management Cloud Service. Provides endpoints for model calculation, data operations, and managing…
+- [Oracle Profitability and Cost Management REST API](https://apis.io/apis/oracle-planning/oracle-profitability-and-cost-management-rest-api/) — REST API for the classic Oracle Profitability and Cost Management Cloud Service. Provides endpoints for managing data grants, point-of-view operations,…
+- [Oracle FreeForm REST API](https://apis.io/apis/oracle-planning/oracle-freeform-rest-api/) — REST API for Oracle FreeForm Cloud Service. FreeForm provides a flexible EPM application building environment using the same Planning REST APIs for job…
+- [Oracle Enterprise Data Management REST API](https://apis.io/apis/oracle-planning/oracle-enterprise-data-management-rest-api/) — REST API for Oracle Enterprise Data Management Cloud Service. Provides endpoints for managing applications, files, jobs, requests, views, dimensions,…
+- [Oracle EPM Task Manager REST API](https://apis.io/apis/oracle-planning/oracle-epm-task-manager-rest-api/) — REST API for Oracle EPM Task Manager. Provides endpoints for managing task status, deploying templates, and managing Oracle Integration Cloud connections…
+- [Oracle EPM Enterprise Journals REST API](https://apis.io/apis/oracle-planning/oracle-epm-enterprise-journals-rest-api/) — REST API for Oracle EPM Enterprise Journals. Provides endpoints for executing journal jobs and retrieving and managing enterprise journal entries across EPM…
+- [Oracle EPM Groovy Scripting API](https://apis.io/apis/oracle-planning/oracle-epm-groovy-scripting-api/) — Java-based scripting API for Oracle EPM Cloud that enables Groovy scripts to perform operations against the EPM object model. Allows dynamic generation of…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-03-16
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Oracle Planning REST API
+Authentication, trust centre, and vulnerability disclosure.
 
-RESTful API for Oracle Planning and Budgeting Cloud Service providing access to planning applications, data, and metadata. Use the Planning REST APIs to manage and execute jobs, work with members, applications, planning units, user preferences, data slices, substitution variables, and user variables.
+- [Oracle Planning Domain Security](https://apis.io/security/oracle-planning/oracle-planning-domain-security/)
 
-### Oracle EPM Automate
+#### Plans and pricing (1)
 
-Command-line utility for automating Oracle EPM Cloud administration tasks. EPM Automate enables service administrators to remotely perform tasks including importing and exporting metadata, data, artifact and application snapshots, uploading and managing files, and downloading reports.
+Published plans, tiers and prices.
 
-### Oracle Planning Smart View API
+- [Oracle Planning Plans Pricing](https://apis.io/plans/oracle-planning/oracle-planning-plans-pricing/)
 
-API for integrating Oracle Smart View for Office with Oracle Planning applications. Smart View provides a common Microsoft Office interface for EPM products, allowing users to view, import, manipulate, distribute, and share data in Excel, Word, and PowerPoint.
+#### Rate limits (1)
 
-### Oracle Planning Data Management API
+Published request limits.
 
-REST API for data integration and management in Oracle Planning applications. Provides endpoints for running data rules, integrations, and pipelines, as well as importing and exporting data snapshots and managing point-of-view lock and unlock operations.
+- [Oracle Planning Rate Limits](https://apis.io/rate-limits/oracle-planning/oracle-planning-rate-limits/)
 
-### Oracle EPM Migration REST API
+#### FinOps (1)
 
-REST API for lifecycle management and migration operations in Oracle EPM Cloud. Provides endpoints for managing application snapshots, importing and exporting artifacts, managing files and object storage, performing SFTP operations, and exporting Essbase data.
+What the API costs to run, by operation.
 
-### Oracle EPM Security REST API
+- [Oracle Planning Finops](https://apis.io/finops/oracle-planning/oracle-planning-finops/)
 
-REST API for managing users, groups, and roles in Oracle EPM Cloud environments. Provides endpoints for user and group administration, role assignment, restricted data access control, encryption key management, and security configuration.
+## Where to find this API
 
-### Oracle Financial Consolidation and Close REST API
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-REST API for Oracle Financial Consolidation and Close Cloud Service (FCCS). Provides endpoints for retrieving and managing journals, submitting, approving, posting, and rejecting journals, updating journal periods, importing supplementation data, copying and clearing data, and deploying form templates.
-
-### Oracle Account Reconciliation REST API
-
-REST API for Oracle Account Reconciliation Cloud Service (ARCS). Provides endpoints for creating reconciliations, changing period status, importing pre-mapped transactions, importing profiles, importing currency rates, importing balances, monitoring reconciliations, and retrieving job status. Also supports Transaction Matching for importing and auto-matching transactions.
-
-### Oracle Tax Reporting REST API
-
-REST API for Oracle Tax Reporting Cloud Service. Provides endpoints for retrieving the REST API version, importing supplementation data, copying data, clearing data, and deploying form templates for tax provisioning and reporting workflows.
-
-### Oracle Narrative Reporting REST API
-
-REST API for Oracle Narrative Reporting Cloud Service. Provides endpoints for managing report artifacts, bursting definitions, files, and jobs. Allows downloading files, uploading temporary files, starting asynchronous jobs, and managing library artifacts for management and regulatory reporting.
-
-### Oracle Enterprise Profitability and Cost Management REST API
-
-REST API for Oracle Enterprise Profitability and Cost Management Cloud Service. Provides endpoints for model calculation, data operations, and managing profitability models used to compute cost and revenue allocations for business profitability analysis.
-
-### Oracle Profitability and Cost Management REST API
-
-REST API for the classic Oracle Profitability and Cost Management Cloud Service. Provides endpoints for managing data grants, point-of-view operations, query exports, and file-based application management for cost allocation and profitability analysis.
-
-### Oracle FreeForm REST API
-
-REST API for Oracle FreeForm Cloud Service. FreeForm provides a flexible EPM application building environment using the same Planning REST APIs for job management, member operations, planning units, substitution variables, and data slices without predefined module constraints.
-
-### Oracle Enterprise Data Management REST API
-
-REST API for Oracle Enterprise Data Management Cloud Service. Provides endpoints for managing applications, files, jobs, requests, views, dimensions, viewpoints, and system settings. Enables programmatic access to master data governance and data management operations.
-
-### Oracle EPM Task Manager REST API
-
-REST API for Oracle EPM Task Manager. Provides endpoints for managing task status, deploying templates, and managing Oracle Integration Cloud connections within the financial close process and other EPM workflows.
-
-### Oracle EPM Enterprise Journals REST API
-
-REST API for Oracle EPM Enterprise Journals. Provides endpoints for executing journal jobs and retrieving and managing enterprise journal entries across EPM Cloud services for cross-application journal management and reporting.
-
-### Oracle EPM Groovy Scripting API
-
-Java-based scripting API for Oracle EPM Cloud that enables Groovy scripts to perform operations against the EPM object model. Allows dynamic generation of calculation scripts at runtime, validation checks for runtime prompts, data validation before form submissions, and integration with internal and external REST APIs.
-
-## Common Properties
-
-- [Portal](https://cloud.oracle.com)
-- [Documentation](https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/index.html)
-- [Getting Started](https://docs.oracle.com/en/cloud/saas/epm-cloud/)
-- [Authentication](https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/prest/about_the_rest_api_for_cloud_plan_budget_guide.html)
-- [Reference](https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/prest/quick_reference_table_rest_api_resource_view.html)
-- [Change Log](https://docs.oracle.com/en/cloud/saas/readiness/epm.html)
-- [Training](https://docs.oracle.com/en/cloud/saas/epm-cloud/training.html)
-- [Tutorials](https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/tutorials.html)
-- [Terms of Service](https://www.oracle.com/legal/terms.html)
-- [Privacy Policy](https://www.oracle.com/legal/privacy/)
-- [Support](https://support.oracle.com)
-- [Status](https://ocistatus.oraclecloud.com/)
 - [Website](https://www.oracle.com/performance-management/)
+- [Documentation](https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/index.html)
+- [Getting started](https://docs.oracle.com/en/cloud/saas/epm-cloud/)
+- [Support](https://support.oracle.com)
+- [Changelog](https://docs.oracle.com/en/cloud/saas/readiness/epm.html)
+- [Blog](https://blogs.oracle.com/proactivesupportepm/)
+- [Terms of service](https://www.oracle.com/legal/terms.html)
+- [Privacy policy](https://www.oracle.com/legal/privacy/)
+- [GitHub](https://github.com/oracle)
+- [Status](https://ocistatus.oraclecloud.com/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 35.1** — thin · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 71.4 |
+| Contract quality | 24.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 28.9 |
+
+**Agent readiness 16.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/oracle-planning/](https://apis.io/providers/oracle-planning/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Oracle Planning: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/oracle-planning/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
